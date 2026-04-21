@@ -30,3 +30,4 @@ jobs:
           tags: ayooladav/live-app:latest
           platforms: linux/amd64
           no-cache: true
+          
